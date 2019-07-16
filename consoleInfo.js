@@ -10,3 +10,4 @@ else { //Running in the browser
         console.b2xk("%c[i]%c " + msg, "background: blue; color: #FFF", "color: blue");
     };
 }
+module.exports = console.info;
